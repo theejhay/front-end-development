@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Forms </title>
+</head>
+
+<body>
+<form action="index.html" method="get">
+    <label for="name">First Name</label>
+    <input type="text" name="first_name" id="first_name" required placeholder="Enter your First Name "> <br>
+
+    <label for="last_name">Last Name</label>
+    <input type="text" name="last_name" id="last_name" required> <br>
+
+    <label for="username">Username</label>
+    <input type="text" name="username" id="username" maxlength="5" minlength="2"><br>
+
+    <label for="password">Password</label>
+    <input type="password" name="password" id="password" placeholder="password here"><br>
+
+    <label for="email">Email</label>
+    <input type="email" name="email" id="email"><br>
+
+    <span> Select Your Favourite Foods</span>
+    <input type="checkbox"> Beans 
+    <input type="checkbox"> Rice 
+    <input type="checkbox"> Chicken 
+
+    <br>
+
+    <span> Gender</span>
+    <input type="radio" name="gender" value="male"> Male
+    <input type="radio" name="gender" value="female"> Female
+
+    <br>
+
+    <span> Select Your Country</span>
+    <select>
+        <option value="uk"> United Kingdom</option>
+        <option value="us"> United States</option>
+        <option value="ng"> Nigeria</option>
+    </select>
+    <br>
+    <span> Date of Birth</span>
+    <input type="date"> <br>
+
+    <span> Appointment Date/Time</span>
+    <input type="datetime-local"><br/>
+
+
+    <span> Upload your WAEC Certificate</span>
+    <input type="file"><br/>
+
+    <span> Upload your WAEC Certificate</span>
+    <video src="video_one.mov" controls height="400" width="400" poster="my_poster.JPG"></video><br>
+
+    <br/>
+    <input type="submit" value="Register Now!">
+</form>
+
+
+
+</body>
+
+</html>

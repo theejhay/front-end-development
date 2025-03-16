@@ -1,0 +1,68 @@
+Assignment 1: HTML Headings and Paragraphs
+
+Create an HTML page with:
+Headings (<h1> to <h6>)
+Three paragraphs about your favorite hobby
+A horizontal line (<hr>) between each section
+
+Assignment 2: Anchor Tags and Buttons
+
+Create an HTML page with:
+Three links (<a> tags):
+- One linking to an external website
+- One linking to another page within your project folder
+- One linking to an email address (mailto:)
+Add three buttons (<button> tags):
+- A submit button
+- A reset button
+- A regular button
+Add a disabled button that cannot be clicked.
+
+Assignment 3: Ordered and Unordered Lists
+
+1. Ordered List - Favorite Movies or Books
+The Shawshank Redemption
+Harry Potter Series
+The Great Gatsby
+Inception
+To Kill a Mockingbird
+2. Unordered List - Favorite Fruits (Square bullets)
+:black_medium_square: Apple
+:black_medium_square: Banana
+:black_medium_square: Mango
+3. Nested List - Sports Categories
+Sports
+Indoor
+Chess
+Table Tennis
+Outdoor
+Football
+Basketball
+
+Assignment 4: Advanced List Formatting
+
+1. Ordered List - Roman Numerals, Reversed & Start at V
+V. First Item
+IV. Second Item
+III. Third Item
+II. Fourth Item
+I. Fifth Item
+2. Multi-level List - Types of Vehicles
+Vehicles
+Land
+Car
+Motorcycle
+Bicycle
+Air
+Airplane
+Helicopter
+Hot Air Balloon
+
+Bonus Assignment (Creative Project)
+
+Design an "About Me" page with:
+- At least three headings
+- Three paragraphs about yourself
+- An unordered list of your hobbies
+- A link to an external website
+- A button labeled "Contact Me" (but it should be disabled)
